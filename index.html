@@ -21,6 +21,20 @@
       <p>This is a Web Application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. </p>
 
     </div>
+    <div class="container">
+      <form id="form">
+        <label for="date">Select date of birth:</label><br>
+        <input type="date" name="date" id="date" /> <br />
+        <label for="gender">Select Your Gender.</label> <br />
+        <input type="radio" name="gender" id="male" value="male" /> Male
+        <br />
+        <input type="radio" name="gender" id="female" /> Female <br />
+        <button type="button" onclick="computeName()">Submit</button> <br />
+      </form>
+      <p id="result"></p>
+
+
+    </div>
 
   </div>
   
