@@ -1,0 +1,12 @@
+body{
+
+}
+.image{
+    border: red solid 2px;
+    height: 300px;
+    width: 100%;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/255px-Flag_of_Ghana.svg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
