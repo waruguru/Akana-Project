@@ -31,7 +31,7 @@ function getGender() {
 }
 function computeName() {
     let selectedGender = getGender();
-    let dayOfWeek = getBirthday();
+    let dayOfWeek = getDayOfBirth();
     if ((!!dayOfWeek.valueOf() === true) || (dayOfWeek == 0))  {
         if (selectedGender === 0) {
             let result = "Your Akan name is " + maleNames[dayOfWeek] + ".";
