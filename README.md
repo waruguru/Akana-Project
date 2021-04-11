@@ -22,3 +22,8 @@ Languages:HTML,Bootstrap,JS and CSS
 ## Support and contact details
 incase of any question,concern or idea please feel free to contact me at rachelmuriithi57@gmail.com
 
+### Konown Bugs
+The page when on full scree the flag on the topmost part streches but on minimizing the screen it works perfectly well.
+Any suggestion or idea on how to go about it is welcomed.
+
+Licenced under the [MIT Licence](LICENCE)
