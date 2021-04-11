@@ -1,5 +1,5 @@
 
-My Portfolio
+Akana Names Calculator
 
 #### By 
 Muriithi Joyce
