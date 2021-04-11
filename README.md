@@ -6,6 +6,12 @@ Muriithi Joyce
 ## Description
 This is a web application that allows user to select their date of birth, their gender and calculates the day they were born and displays their Akan name.
 
+#### Setup/Installation Requirements
+To view the website, go to https://waruguru.github.io/Akana-Project/
+Select your date of birth.
+Select you gender.
+Click "Submit" to get your Akan name generated.
+
 ### Live Link
 https://waruguru.github.io/Akana-Project/
 
